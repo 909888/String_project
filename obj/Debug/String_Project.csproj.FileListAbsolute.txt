@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\String_Project\String_Project\bin\Debug\String_Project.exe.config
+C:\Users\Student\source\repos\String_Project\String_Project\bin\Debug\String_Project.exe
+C:\Users\Student\source\repos\String_Project\String_Project\bin\Debug\String_Project.pdb
+C:\Users\Student\source\repos\String_Project\String_Project\obj\Debug\String_Project.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\String_Project\String_Project\obj\Debug\String_Project.exe
+C:\Users\Student\source\repos\String_Project\String_Project\obj\Debug\String_Project.pdb
+C:\Users\Student\source\repos\String_Project\String_Project\obj\Debug\String_Project.csprojAssemblyReference.cache
